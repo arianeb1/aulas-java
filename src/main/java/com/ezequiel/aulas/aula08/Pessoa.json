@@ -1,0 +1,22 @@
+{
+	"name":"Ezequiel",
+	"dataNasc": "1987-10-26",
+	"altura": 1.74,
+	"peso": 70.5,
+	"telefones": [
+		"(11)99999-8888",
+		"(22)8888-7777"
+	],
+	"enderecos":[
+	    {
+	      "rua": "Joao Gaspar",
+	      "numero": "500"
+	    },
+	    {
+	      "rua": "Joao Gaspar",
+	      "numero": "600"
+	    }
+	    
+	],
+	"sexo": "Masculino"
+}
